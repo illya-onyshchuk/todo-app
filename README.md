@@ -11,6 +11,7 @@ This is a simple Todo App built using React and TypeScript. It allows users to a
 ## Technologies Used
  - React
  - TypeScript
+ - Bulma
 
 ## About
  ### You can look at demo [here](https://illya-onyshchuk.github.io/todo-app/)
