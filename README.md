@@ -13,9 +13,6 @@ This is a simple Todo App built using React and TypeScript. It allows users to a
  - TypeScript
  - Bulma
 
-## About
- ### You can look at demo [here](https://illya-onyshchuk.github.io/todo-app/)
-
 ## Quick Start
 Prerequisites
 Ensure you have Node.js installed. Recommended version: >=14.0.0.
@@ -35,5 +32,5 @@ Start the project:
 
 `npm start`
 
-
-
+## About
+ ### You can look at demo [here](https://illya-onyshchuk.github.io/todo-app/)
