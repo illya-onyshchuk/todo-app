@@ -1,36 +1,46 @@
 # Todo App
 
 ## Overview
-This is a simple Todo App built using React and TypeScript. It allows users to add, delete, and mark tasks as completed. The app is styled using Bulma and FontAwesome for a modern and responsive design.
+This is a simple Todo App built using **React** and **TypeScript**. It allows users to add, delete, and mark tasks as completed. The app is styled using **Bulma** and FontAwesome for a modern and responsive design.
 
 ## Features
- - Add new tasks.
- - Delete existing tasks.
- - Mark tasks as completed.
+ - **Add New Tasks**: Easily add new tasks to your todo list.
+ - **Delete Tasks**: Remove tasks that are no longer needed.
+ - **Mark Tasks as Completed**: Keep track of your progress by marking tasks as completed.
 
 ## Technologies Used
- - React
- - TypeScript
- - Bulma
+ - **React**: A JavaScript library for building user interfaces.
+ - **TypeScript**: A superset of JavaScript that adds static typing.
+ - **Bulma**: A modern CSS framework based on Flexbox.
 
 ## Quick Start
-Prerequisites
-Ensure you have Node.js installed. Recommended version: >=14.0.0.
-Clone the repository to your local machine:
+### Prerequisites
 
-`git clone repo`
+Ensure you have **Node.js** installed. Recommended version: `>=14.0.0`.
 
-Navigate to the project directory:
+### Installation
 
-`cd todo-app-api`
+1. **Clone the repository to your local machine**:
 
-Install the dependencies:
+```bash
+ git clone repo
+```
 
-`npm install`
+2. **Navigate to the project directory**:
+    ```bash
+    cd todo-app-api
+    ```
 
-Start the project:
-
-`npm start`
+3. **Install the dependencies**:
+    ```bash
+    npm install
+    ```
+  
+4. **Start the project**:
+    ```bash
+    npm start
+    ```
 
 ## About
+
  ### You can look at demo [here](https://illya-onyshchuk.github.io/todo-app/)
