@@ -22,9 +22,9 @@ Ensure you have **Node.js** installed. Recommended version: `>=14.0.0`.
 
 1. **Clone the repository to your local machine**:
 
-```bash
- git clone repo
-```
+    ```bash
+     git clone repo
+    ```
 
 2. **Navigate to the project directory**:
     ```bash
