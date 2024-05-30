@@ -25,15 +25,15 @@ Clone the repository to your local machine:
 
 Navigate to the project directory:
 
-cd todo-app-api
+`cd todo-app-api`
 
 Install the dependencies:
 
-npm install
+`npm install`
 
 Start the project:
 
-npm start
+`npm start`
 
 
 
