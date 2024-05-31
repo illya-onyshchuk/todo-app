@@ -25,7 +25,7 @@ Ensure you have **Node.js** installed. Recommended version: `>=14.0.0`.
 1. **Clone the repository to your local machine**:
 
     ```bash
-     git clone repo
+     git clone https://github.com/illya-onyshchuk/todo-app.git
     ```
 
 2. **Navigate to the project directory**:
