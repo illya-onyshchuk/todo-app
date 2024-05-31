@@ -1,5 +1,7 @@
 # Todo App
 
+ ### You can look at demo [here](https://illya-onyshchuk.github.io/todo-app/)
+
 ## Overview
 This is a simple Todo App built using **React** and **TypeScript**. It allows users to add, delete, and mark tasks as completed. The app is styled using **Bulma** and FontAwesome for a modern and responsive design.
 
@@ -40,7 +42,3 @@ Ensure you have **Node.js** installed. Recommended version: `>=14.0.0`.
     ```bash
     npm start
     ```
-
-## About
-
- ### You can look at demo [here](https://illya-onyshchuk.github.io/todo-app/)
